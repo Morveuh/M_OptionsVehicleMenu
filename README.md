@@ -9,7 +9,7 @@ Mvh#3326
 
 # Starting Server
 ```
-ensure optionsvehicle
+ensure vehicleoptions
 ```
 # License
 MIT License
